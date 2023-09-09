@@ -8,7 +8,9 @@ P & ID or Process and Instrumentation Diagram is one of the most important drawi
 This is the hardest part, so I'm doing this part first. There isn't a standard way on how to properly put a line number. So I'm googling to find the most common ways for people to write the line number. This is what found:
 
 So i'm using this to find the most common pattern line number. Inputting that into regular expression and yes, we can extract the line number. But if other patterns exist, you may contact me, so I may adjust my code.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fforumautomation.com%2Ft%2Fidentification-of-pipe-line-number-in-p-id%2F10658&psig=AOvVaw2qybvftmR_-NludjYDLEFy&ust=1694387841548000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjroZLVnoEDFQAAAAAdAAAAABAI![image](https://github.com/maercaestro/pidextractor/assets/129637227/c4b6d771-30cb-4ddb-9c81-ee0d111f2cb0)
+![c8a58de8a891ca4b5efa522e1b6eaaee007aba4b](https://github.com/maercaestro/pidextractor/assets/129637227/f110e9b2-ef2d-4285-ba5e-7e9c8a14ac2e)
+![hqdefault](https://github.com/maercaestro/pidextractor/assets/129637227/7bd9c972-2cb7-4de5-9205-1cb1c6b26b75)
+
 
 
 ## Future Plans

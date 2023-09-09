@@ -2,4 +2,4 @@ PyPDF2
 Pillow
 pandas
 streamlit
-re
+regex

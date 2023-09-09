@@ -11,7 +11,8 @@ So i'm using this to find the most common pattern line number. Inputting that in
 ![c8a58de8a891ca4b5efa522e1b6eaaee007aba4b](https://github.com/maercaestro/pidextractor/assets/129637227/f110e9b2-ef2d-4285-ba5e-7e9c8a14ac2e)
 ![hqdefault](https://github.com/maercaestro/pidextractor/assets/129637227/7bd9c972-2cb7-4de5-9205-1cb1c6b26b75)
 
-
+## Issues with current version
+I'm currently using PyPDF2 library to extract the text. It has issues in identifying special characters like 3/4 or 1/2 or 5/3. It return blanks when it found this characters. I'll try to update this code by using Tesseract or other OCR package next time.
 
 ## Future Plans
 There are few other plans that I have for this. All are listed below:

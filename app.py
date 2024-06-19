@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-from pdf2image import convert_from_path
 import pytesseract
 import re
 import pandas as pd
